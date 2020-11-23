@@ -49,5 +49,5 @@ public static void NaShui() {
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kMcibx6aZC4GYkvL1JSG5CTJVBrGVRNE12ahTibzRt49U4/0)
 
 ## 七 .编程感想:
-     在该实验中掌握了Java中接口的定义，以及接口的实验方法。学会了通过Scanner方法读入然后实现运行时交互式输入以及如何在程序中做异常处理。  
+     在该实验中掌握了Java中接口的定义，以及接口的实验方法。学会了通过Scanner方法读入然后实现运行时交互式输入以及如何在程序中做异常处理。    
 
